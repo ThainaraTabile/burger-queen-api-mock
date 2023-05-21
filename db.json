@@ -153,35 +153,35 @@
   "users": [
     {
       "email": "adm@bs.com",
-      "password": "123456",
+      "password": "$2a$10$L5W64NHw0zA.85F6Vp1/.etDP.X5ZQZXuK8vOxavqNALrzOY1msjW",
       "name": "Administrador",
       "role": "Administração",
       "id": 1
     },
     {
       "email": "atendimento@bs.com",
-      "password": "123456",
+      "password": "$2a$10$L5W64NHw0zA.85F6Vp1/.etDP.X5ZQZXuK8vOxavqNALrzOY1msjW",
       "name": "Atendente",
       "role": "Atendimento",
       "id": 2
     },
     {
       "email": "cozinha@bs.com",
-      "password": "123456",
+      "password": "$2a$10$L5W64NHw0zA.85F6Vp1/.etDP.X5ZQZXuK8vOxavqNALrzOY1msjW",
       "name": "Chef de Cozinha",
       "role": "Cozinha",
       "id": 3
     },
     {
       "email": "luigi@bs.com",
-      "password": "Luigi123456",
+      "password": "$2a$10$L5W64NHw0zA.85F6Vp1/.etDP.X5ZQZXuK8vOxavqNALrzOY1msjW",
       "name": "Luigi José",
       "role": "Cozinha",
       "id": 4
     },
     {
       "email": "rick@bs.com",
-      "password": "Rick123456",
+      "password": "$2a$10$L5W64NHw0zA.85F6Vp1/.etDP.X5ZQZXuK8vOxavqNALrzOY1msjW",
       "name": "Rick Renner",
       "role": "Atendimento",
       "id": 5
@@ -195,7 +195,7 @@
     },
     {
       "email": "pati@bs.com",
-      "password": "123456",
+      "password": "$2a$10$L5W64NHw0zA.85F6Vp1/.etDP.X5ZQZXuK8vOxavqNALrzOY1msjW",
       "name": "Pati",
       "role": "Administração",
       "id": 7
