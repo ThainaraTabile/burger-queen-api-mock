@@ -188,7 +188,7 @@
     },
     {
       "email": "thai@bs.com",
-      "password": "Thai123456",
+      "password": "$2a$10$L5W64NHw0zA.85F6Vp1/.etDP.X5ZQZXuK8vOxavqNALrzOY1msjW",
       "name": "Thai",
       "role": "Administração",
       "id": 6
