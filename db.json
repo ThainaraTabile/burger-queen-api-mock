@@ -152,22 +152,46 @@
   ],
   "users": [
     {
-      "email": "anita.borg@systers.xyz",
-      "password": "$2a$10$gVkmcWdnwEBxXj2PWjuv9uDx7BfjiAobbabDAOrH2o8b1i3E7KwR.",
-      "role": "admin",
+      "email": "adm@bs.com",
+      "password": "123456",
+      "role": "Administração",
       "id": 1
     },
     {
-      "email": "grace.hopper@systers.xyz",
-      "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
-      "role": "admin",
+      "email": "atendimento@bs.com",
+      "password": "123456",
+      "role": "Atendimento",
       "id": 2
     },
     {
-      "email": "nara.sakamoto@laboratoria.la",
-      "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
-      "role": "admin",
+      "email": "cozinha@bs.com",
+      "password": "123456",
+      "role": "Cozinha",
       "id": 3
+    },
+    {
+      "email": "luigi@bs.com",
+      "password": "123456",
+      "role": "Cozinha",
+      "id": 4
+    },
+    {
+      "email": "rick@bs.com",
+      "password": "123456",
+      "role": "Atendimento",
+      "id": 5
+    },
+    {
+      "email": "thai@bs.com",
+      "password": "123456",
+      "role": "Administração",
+      "id": 6
+    },
+    {
+      "email": "pati@bs.com",
+      "password": "123456",
+      "role": "Administração",
+      "id": 7
     }
   ]
 }
