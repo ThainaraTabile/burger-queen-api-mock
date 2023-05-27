@@ -2,52 +2,50 @@
   "orders": [
     {
       "id": 1,
-      "userId": 1,
-      "client": "Jude Milhon",
+      "userId": 5,
+      "client": "Renner",
       "waiter": "Rick",
       "table": 1,
       "products": [
         {
           "qty": 1,
           "product": {
-            "id": 1,
-            "name": "Sandwich de jamón y queso",
-            "price": 1000,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
-            "type": "Desayuno",
+            "id": 4,
+            "name": "Sanduíche de presunto e queijo",
+            "price": 10,
+            "type": "café da manhã",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
         {
           "qty": 1,
           "product": {
-            "id": 2,
+            "id": 1,
             "name": "Café americano",
-            "price": 500,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/coffe.jpg",
-            "type": "Desayuno",
+            "price": 5,
+            "type": "café da manhã",
             "dateEntry": "2022-03-05 15:14:10"
           }
         }
       ],
-      "status": "pending",
+      "status": "pendente",
       "dataEntry": "2022-03-05 15:00"
     },
     {
       "id": 2,
-      "userId": 2,
-      "client": "Katie Bouman",
+      "userId": 4,
+      "client": "Mario",
       "waiter":"Luigi",
       "table": 2,
       "products": [
         {
           "qty": 2,
           "product": {
-            "id": 2,
+            "id": 1,
             "name": "Café americano",
-            "price": 500,
+            "price": 5,
             "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/coffe.jpg",
-            "type": "Desayuno",
+            "type": "café da manhã",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -56,14 +54,46 @@
           "product": {
             "id": 3,
             "name": "Agua 500ml",
-            "price": 500,
+            "price": 5,
             "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
-            "type": "Almuerzo",
+            "type": "menu principal",
             "dateEntry": "2022-03-05 15:14:10"
           }
         }
       ],
-      "status": "delivered",
+      "status": "entregue",
+      "dataEntry": "2022-03-05 15:00",
+      "dateProcessed": "2022-03-05 16:00"
+    },
+    {
+      "id": 3,
+      "userId": 8,
+      "waiter": "Natasha",
+      "client": "Katusha",
+      "table": 4,
+      "products": [
+        {
+          "qty": 2,
+          "product": {
+            "id": 17,
+            "name": "Croissant",
+            "price": 10,
+            "type": "café da manhã",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "id": 3,
+            "name": "Suco de Fruta Natural",
+            "price": 7,
+            "type": "café da manhã",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
+        }
+      ],
+      "status": "em produção",
       "dataEntry": "2022-03-05 15:00",
       "dateProcessed": "2022-03-05 16:00"
     }
@@ -73,6 +103,7 @@
       "name": "Café Americano",
       "price": 5,
       "type": "café da manhã",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/11.png",
       "category": "bebidas",
       "id": 1
     },
@@ -81,6 +112,7 @@
       "price": 7,
       "type": "café da manhã",
       "category": "bebidas",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/10.png",
       "id": 2
     },
     {
@@ -88,6 +120,7 @@
       "price": 7,
       "type": "café da manhã",
       "category": "bebidas",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/12.png",
       "id": 3
     },
     {
@@ -95,6 +128,7 @@
       "price": 10,
       "type": "café da manhã",
       "category": "lanches",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/13.png",
       "id": 4
     },
     {
@@ -102,6 +136,7 @@
       "price": 10,
       "type": "menu principal",
       "category": "hambúrgueres",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/25.png",
       "id": 5
     },
     {
@@ -109,6 +144,7 @@
       "price": 15,
       "type": "menu principal",
       "category": "hambúrgueres",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/26.png",
       "id": 6
     },
     {
@@ -116,6 +152,7 @@
       "price": 5,
       "type": "menu principal",
       "category": "acompanhamentos",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/24.png",
       "id": 7
     },
     {
@@ -123,6 +160,7 @@
       "price": 5,
       "type": "menu principal",
       "category": "acompanhamentos",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/aneis-cebola.png",
       "id": 8
     },
     {
@@ -130,6 +168,7 @@
       "price": 5,
       "type": "menu principal",
       "category": "bebidas",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/16.png",
       "id": 9
     },
     {
@@ -137,6 +176,7 @@
       "price": 7,
       "type": "menu principal",
       "category": "bebidas",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/21.png",
       "id": 10
     },
     {
@@ -144,6 +184,7 @@
       "price": 7,
       "type": "menu principal",
       "category": "bebidas",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/20.png",
       "id": 11
     },
     {
@@ -151,6 +192,7 @@
       "price": 10,
       "type": "menu principal",
       "category": "bebidas",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/22.png",
       "id": 12
     },
     {
@@ -158,6 +200,7 @@
       "price": 10,
       "type": "menu principal",
       "category": "bebidas",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/23.png",
       "id": 13
     },
     {
@@ -165,6 +208,7 @@
       "price": 15,
       "type": "menu principal",
       "category": "acompanhamentos",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/coxinha.png",
       "id": 14
     },
     {
@@ -172,6 +216,7 @@
       "price": 15,
       "type": "menu principal",
       "category": "hambúrgueres",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/27.png",
       "id": 15
     },
     {
@@ -179,6 +224,7 @@
       "price": 15,
       "type": "café da manhã",
       "category": "lanches",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/15.png",
       "id": 16
     },
     {
@@ -186,6 +232,7 @@
       "price": 10,
       "type": "café da manhã",
       "category": "lanches",
+      "image": "https://github.com/ThainaraTabile/burger-queen-api-mock/blob/main/resources/images/14.png",
       "id": 17
     }
   ],
