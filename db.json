@@ -4,6 +4,8 @@
       "id": 1,
       "userId": 1,
       "client": "Jude Milhon",
+      "waiter": "Rick",
+      "table": 1,
       "products": [
         {
           "qty": 1,
@@ -35,6 +37,8 @@
       "id": 2,
       "userId": 2,
       "client": "Katie Bouman",
+      "waiter":"Luigi",
+      "table": 2,
       "products": [
         {
           "qty": 2,
@@ -148,6 +152,41 @@
       "type": "menu principal",
       "category": "bebidas",
       "id": 12
+    },
+    {
+      "name": "Chopp Artesanal",
+      "price": 10,
+      "type": "menu principal",
+      "category": "bebidas",
+      "id": 13
+    },
+    {
+      "name": "Porção de Coxinha",
+      "price": 15,
+      "type": "menu principal",
+      "category": "acompanhamentos",
+      "id": 14
+    },
+    {
+      "name": "Hambúrguer Vegetariano",
+      "price": 15,
+      "type": "menu principal",
+      "category": "hambúrgueres",
+      "id": 15
+    },
+    {
+      "name": "Panquecas",
+      "price": 15,
+      "type": "café da manhã",
+      "category": "lanches",
+      "id": 16
+    },
+    {
+      "name": "Croissant",
+      "price": 10,
+      "type": "café da manhã",
+      "category": "lanches",
+      "id": 17
     }
   ],
   "users": [
