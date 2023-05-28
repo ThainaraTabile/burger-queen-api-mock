@@ -168,7 +168,7 @@
       "price": 5,
       "type": "menu principal",
       "category": "bebidas",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/16.png",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/agua-500ml.png",
       "id": 9
     },
     {
@@ -176,7 +176,7 @@
       "price": 7,
       "type": "menu principal",
       "category": "bebidas",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/21.png",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/agua-750ml.png",
       "id": 10
     },
     {
@@ -194,14 +194,6 @@
       "category": "bebidas",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/22.png",
       "id": 12
-    },
-    {
-      "name": "Chopp Artesanal",
-      "price": 10,
-      "type": "menu principal",
-      "category": "bebidas",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/23.png",
-      "id": 13
     },
     {
       "name": "Porção de Coxinha",
