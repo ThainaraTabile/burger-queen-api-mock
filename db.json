@@ -526,7 +526,8 @@
       "type": "café da manhã",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/11.png",
       "category": "bebidas",
-      "id": 1
+      "id": 1,
+      "qty": 20
     },
     {
       "name": "Café com Leite",
@@ -534,7 +535,8 @@
       "type": "café da manhã",
       "category": "bebidas",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/10.png",
-      "id": 2
+      "id": 2,
+      "qty": 20
     },
     {
       "name": "Suco de Fruta Natural",
@@ -542,7 +544,8 @@
       "type": "café da manhã",
       "category": "bebidas",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/12.png",
-      "id": 3
+      "id": 3,
+      "qty": 20
     },
     {
       "name": "Sanduíche de presunto e queijo",
@@ -550,7 +553,8 @@
       "type": "café da manhã",
       "category": "lanches",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/13.png",
-      "id": 4
+      "id": 4,
+      "qty": 20
     },
     {
       "name": "Hambúrguer Simples",
@@ -558,7 +562,8 @@
       "type": "menu principal",
       "category": "hambúrgueres",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/25.png",
-      "id": 5
+      "id": 5,
+      "qty": 20
     },
     {
       "name": "Hambúrguer Duplo",
@@ -566,7 +571,8 @@
       "type": "menu principal",
       "category": "hambúrgueres",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/26.png",
-      "id": 6
+      "id": 6,
+      "qty": 20
     },
     {
       "name": "Batata Frita",
@@ -574,7 +580,8 @@
       "type": "menu principal",
       "category": "acompanhamentos",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/24.png",
-      "id": 7
+      "id": 7,
+      "qty": 20
     },
     {
       "name": "Anéis de Cebola",
@@ -582,7 +589,8 @@
       "type": "menu principal",
       "category": "acompanhamentos",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/aneis-cebola.png",
-      "id": 8
+      "id": 8,
+      "qty": 20
     },
     {
       "name": "Água 500ml",
@@ -590,7 +598,8 @@
       "type": "menu principal",
       "category": "bebidas",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/agua-500ml.png",
-      "id": 9
+      "id": 9,
+      "qty": 20
     },
     {
       "name": "Água 750ml",
@@ -598,7 +607,8 @@
       "type": "menu principal",
       "category": "bebidas",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/agua-750ml.png",
-      "id": 10
+      "id": 10,
+      "qty": 20
     },
     {
       "name": "Bebida Gaseificada 500ml",
@@ -606,7 +616,8 @@
       "type": "menu principal",
       "category": "bebidas",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/20.png",
-      "id": 11
+      "id": 11,
+      "qty": 20
     },
     {
       "name": "Bebida Gaseificada 750ml",
@@ -614,7 +625,8 @@
       "type": "menu principal",
       "category": "bebidas",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/22.png",
-      "id": 12
+      "id": 12,
+      "qty": 20
     },
     {
       "name": "Porção de Coxinha",
@@ -622,7 +634,8 @@
       "type": "menu principal",
       "category": "acompanhamentos",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/coxinha.png",
-      "id": 14
+      "id": 14,
+      "qty": 20
     },
     {
       "name": "Hambúrguer Vegetariano",
@@ -630,7 +643,8 @@
       "type": "menu principal",
       "category": "hambúrgueres",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/27.png",
-      "id": 15
+      "id": 15,
+      "qty": 20
     },
     {
       "name": "Panquecas",
@@ -638,7 +652,8 @@
       "type": "café da manhã",
       "category": "lanches",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/15.png",
-      "id": 16
+      "id": 16,
+      "qty": 20
     },
     {
       "name": "Croissant",
@@ -646,7 +661,8 @@
       "type": "café da manhã",
       "category": "lanches",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/burger-queen-api-mock/main/resources/images/14.png",
-      "id": 17
+      "id": 17,
+      "qty": 20
     }
   ],
   "users": [
